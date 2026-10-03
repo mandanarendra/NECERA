@@ -1,0 +1,6 @@
+{
+  "name": "NECERA - AI-Powered Learning & Innovation Ecosystem",
+  "description": "Production-ready educational technology platform for engineering students featuring interactive concept roadmaps, AI mentor, automated assessments, project generator, and collaboration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
